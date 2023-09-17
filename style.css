@@ -152,8 +152,8 @@ gap: 20px;
     align-items: center;
     justify-content: center;
     position: sticky;
-    bottom: 10px;
-    left: 10px;
+    bottom: 15px;
+    left: 15px;
     cursor: pointer;
 }
 
